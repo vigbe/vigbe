@@ -1,0 +1,4 @@
+# Local orchestrator state — never publish
+odd/
+.atl/
+.DS_Store

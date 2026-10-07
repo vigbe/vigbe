@@ -1,30 +1,41 @@
-👋 ¡Hola!
+# Hi, I'm Víctor Bastías 👋
 
-🛠️ Desarrollador de Odoo en Chile 🇨🇱
+**Full Stack Developer & Odoo/ERP Consultant** — I build business software, integrations and AI-powered solutions.
 
-Especializado en Odoo, con experiencia en personalización, automatización e integración de sistemas para optimizar procesos empresariales.
+I've spent 5+ years across the whole lifecycle of real systems — requirements, architecture, implementation, integrations, deployment and support — mostly around **Odoo (Community & Enterprise)** and web platforms for real-estate, CRM and operations teams.
 
-💡 Sobre mí:
+## 🚀 Featured projects
 
-🔹 Desarrollo y personalización de módulos en Odoo Community y Enterprise.
+| Project | What it does | Stack |
+|---|---|---|
+| [**Agéndame**](https://github.com/vigbe/appointment_calendary) | Public appointment-booking page for any Odoo 16–19 **Community** website: visitors pick a slot, Odoo creates the event. No Enterprise module needed. | Python · JS · Odoo |
+| [**Mailbox Lead Generation**](https://github.com/vigbe/mailbox_lead_generation) | Email triage inbox that turns incoming mail into clean CRM leads — address rules + optional AI classification, product matching, one-click conversion. On the [Odoo Apps Store](https://vicbas.com) (16–19). | Python · LLM APIs · Odoo |
+| [**Excalidraw for Odoo**](https://github.com/vigbe/excalidraw_for_odoo) | Excalidraw whiteboard embedded as a native Odoo app — 100% self-hosted, no CDN. | Python · JS · Odoo |
+| [**External Lead Integration**](https://github.com/vigbe/external_lead_integration) | Public REST endpoint (`POST /api/v1/leads`) that feeds CRM leads from external websites — API-key auth, CORS allowlist, deduplication. | Python · REST · Odoo |
+| [**pi-odoo-develop**](https://github.com/vigbe/pi-odoo-develop) | Version-aware Odoo development ruleset for the Pi coding agent — guarantees the Odoo version is known before any code is written. | TypeScript · AI tooling |
+| [**l10n_cl_currency_utm**](https://github.com/vigbe/l10n_cl_currency_utm) | UTM as a native Odoo currency for the Chilean localization — parallel branches for Odoo 16–19. | Python · Odoo |
 
-🔹 Integración de Odoo con APIs y servicios externos como WhatsApp, Google Calendar, Zapier, Make, y más.
+Most of my day-to-day client work (property portals, marketplace and messaging connectors, payments, RAG assistants, ERPs) lives in private repositories.
 
-🔹 Automatización de flujos de trabajo y procesos de negocio.
+## 🛠️ What I work with
 
-🔹 Implementación y optimización de CRM, ERP, contabilidad, ventas y gestión de proyectos.
+| Area | Tools |
+|---|---|
+| Backend | Python · Node.js · REST APIs · SQL |
+| Frontend | JavaScript · React · Odoo OWL |
+| ERP | Odoo 16–19 (CE & EE) · custom modules · workflows · ORM |
+| Data | PostgreSQL · MongoDB |
+| AI & Automation | LLM APIs · RAG · agents · n8n |
+| Infra | Docker · AWS · Linux · Nginx · Git |
 
-🔹 Trabajo en entornos Linux (WSL) para desarrollo y despliegue.
+## 💼 Experience
 
-🔹 Experiencia con Python, JavaScript, PostgreSQL, XML, Docker y más.
+- **Tech Lead — IA-PROP**: real-estate technology platform built on Odoo — property management and synchronization, external portal integrations, CRM workflows, AI-assisted processes.
+- **Odoo Consultant / Developer**: ERP implementations, custom modules and integrations across industries.
+- **Full Stack Developer — Nexxos** · **Frontend Developer — Defontana**
 
-🚀 Proyectos en los que trabajo:
+## 📫 Let's talk
 
-Automatización de procesos en Odoo Online.
-
-Integraciones con WhatsApp, Google Calendar, y otras plataformas de mensajería y productividad.
-
-Sincronización de datos con herramientas externas mediante APIs y webhooks.
-
-Optimización de flujos de trabajo en CRM y ERP para empresas de diversos sectores.
-
+- 🌐 Portfolio / CV: [cv-resume.vicbas.com](https://cv-resume.vicbas.com)
+- 💼 LinkedIn: [in/vigbe](https://www.linkedin.com/in/vigbe/)
+- 📍 Santiago, Chile — open to remote and international roles
